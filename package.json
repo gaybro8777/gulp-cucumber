@@ -1,10 +1,10 @@
 {
-  "name": "gulp-cucumber",
+  "name": "@ermakovich/gulp-cucumber",
   "version": "0.0.23",
   "description": "Gulp task for running cucumber.js features",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vgamula/gulp-cucumber"
+    "url": "https://github.com/ermakovich/gulp-cucumber"
   },
   "main": "index.js",
   "keywords": [
